@@ -15,7 +15,9 @@ The dataset contains sales records with fields such as customer_id,category,sale
 Data Extraction: Efficiently extract data from the dataset.
 
 Data Transformation: Clean and transform data for analysis.
+
 Data Analysis: Perform comprehensive analysis to uncover insights.
+
 Data Visualization: Generate visualizations to present findings.
 
 ### Queries
@@ -24,5 +26,7 @@ The project includes various other SQL queries for different types of analysis, 
 ### Contact
 For questions or collaboration, please reach out:
 Binesh Pravin: bines27801@gmail.com
+
 GitHub: github.com/Binesh-Pravin
+
 LinkedIn: linkedin.com/in/bineshpravin
