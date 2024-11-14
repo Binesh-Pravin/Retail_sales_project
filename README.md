@@ -25,6 +25,7 @@ The project includes various other SQL queries for different types of analysis, 
 
 ### Contact
 For questions or collaboration, please reach out:
+
 Binesh Pravin: bines27801@gmail.com
 
 GitHub: github.com/Binesh-Pravin
