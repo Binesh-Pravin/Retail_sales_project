@@ -13,6 +13,7 @@ The dataset contains sales records with fields such as customer_id,category,sale
 
 ### Features
 Data Extraction: Efficiently extract data from the dataset.
+
 Data Transformation: Clean and transform data for analysis.
 Data Analysis: Perform comprehensive analysis to uncover insights.
 Data Visualization: Generate visualizations to present findings.
